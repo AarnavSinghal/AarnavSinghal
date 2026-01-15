@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using Machine Learning  
+# Stock Price Prediction using Machine Learning  
 Capstone Project – IITG DS Course
 
 This project builds a complete **end-to-end ML pipeline** to predict stock returns using historical NASDAQ data.  
@@ -6,7 +6,7 @@ The workflow includes data cleaning, feature engineering, model training, evalua
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal is to predict **next-day returns** for a chosen target stock (e.g., AAPL) using:
 
@@ -19,7 +19,7 @@ This notebook follows a structured multi-phase workflow.
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ### **Phase 1: Data Loading & Cleaning**
 - Loads raw per-ticker CSVs  
@@ -58,7 +58,7 @@ Metrics:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 - ML models achieve meaningful predictive accuracy  
 - Direction-based prediction (sign accuracy) is the key metric  
@@ -68,7 +68,7 @@ Metrics:
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 Dataset used:  
 **Stock Market Dataset (NASDAQ)**  
@@ -77,7 +77,7 @@ Contains: Daily OHLCV data for hundreds of tickers up to April 2020.
 
 ---
 
-## 🛠 Technologies & Libraries
+## Technologies & Libraries
 
 - Python  
 - NumPy / Pandas  
@@ -89,7 +89,7 @@ Contains: Daily OHLCV data for hundreds of tickers up to April 2020.
 
 ---
 
-## 📘 How to Run
+## How to Run
 
 1. Open the notebook in **Google Colab**  
 2. Upload the dataset folder  
@@ -98,7 +98,7 @@ Contains: Daily OHLCV data for hundreds of tickers up to April 2020.
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Time-series preprocessing  
 - Feature engineering for financial data  
@@ -108,14 +108,14 @@ Contains: Daily OHLCV data for hundreds of tickers up to April 2020.
 
 ---
 
-## 📜 License
+## License
 
 This project is submitted as part of an academic capstone requirement.  
 Feel free to fork and experiment — just credit the original repository.
 
 ---
 
-## ✨ Author
+## Author
 
 **Aarnav Singhal**  
 B.Tech Computer Science & Business Systems  
