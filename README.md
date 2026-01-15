@@ -118,7 +118,8 @@ Feel free to fork and experiment — just credit the original repository.
 ## Author
 
 **Aarnav Singhal**  
-B.Tech Computer Science & Business Systems  
+IIT Guwahati DS course
+student code- iitg_ds_2501432
 
 ---
 
